@@ -78,7 +78,7 @@ API Endpoints
 Installation
 ------------
 Prerequisites:
-- Java 17
+- Java 17+
 - PostgreSQL database
 - Redis for caching OTPs
 - Gradle Groovy for dependency management
