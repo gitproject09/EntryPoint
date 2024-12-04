@@ -60,8 +60,6 @@ API Endpoints
   }
 - Description: Authenticates the user and returns a JWT token.
 
-
-
 4. Get Profile
 - URL: /api/v1/auth/get-profile
 - Method: GET
@@ -80,7 +78,7 @@ API Endpoints
 Installation
 ------------
 Prerequisites:
-- Java 17+
+- Java 17
 - PostgreSQL database
 - Redis for caching OTPs
 - Gradle Groovy for dependency management
